@@ -210,6 +210,7 @@ export default {
 .homeNavBar {
   background-color: var(--color-tint);
   color: white;
+  font-weight: 700;
 }
 .tab-control {
   position: sticky;

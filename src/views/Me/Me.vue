@@ -1,7 +1,7 @@
 <template>
   <div id="me">
     <nav-bar class="meNavBar">
-      <span slot="center">我的</span>
+      <span slot="center">我的档案</span>
     </nav-bar>
   </div>
 </template>
@@ -19,5 +19,6 @@ export default {
 .meNavBar {
   background-color: var(--color-tint);
   color: white;
+  font-weight: 700;
 }
 </style>
